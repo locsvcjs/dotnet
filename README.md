@@ -15,3 +15,4 @@ Links
 
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0
 https://www.rabbitmq.com/install-debian.html#apt-quick-start-cloudsmith
+https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html

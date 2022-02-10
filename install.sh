@@ -39,13 +39,14 @@ download() {
 }
 
 detectArch() {
-    arch=arm32
+    #arch=arm32
+    arch=x64
   
     if command -v uname > /dev/null; then
         machineCpu=$(uname -m)-$(uname -p)
 
         if [[ $machineCpu == *64* ]]; then
-            arch=arm64
+            #arch=arm64
         fi
     fi
 }

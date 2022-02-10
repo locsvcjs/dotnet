@@ -47,6 +47,7 @@ detectArch() {
 
         if [[ $machineCpu == *64* ]]; then
             #arch=arm64
+            arch=x64
         fi
     fi
 }
